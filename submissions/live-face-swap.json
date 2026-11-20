@@ -1,0 +1,8 @@
+{
+  "name": "Live Face Swap",
+  "url": "https://live-face-swap.net/api/mcp",
+  "category": "Design & Media",
+  "site": "https://live-face-swap.net/mcp",
+  "auth": "OAuth",
+  "maintainer": "Live Face Swap"
+}
